@@ -2,7 +2,7 @@
 
 A comprehensive data analysis project demonstrating advanced analytical skills including exploratory data analysis, statistical testing, customer segmentation, and A/B testing using Python and Jupyter notebooks.
 
-## 🎯 Project Overview
+## Project Overview
 
 This project showcases end-to-end data analysis capabilities through a comprehensive sales dataset analysis. The analysis includes:
 
@@ -12,7 +12,7 @@ This project showcases end-to-end data analysis capabilities through a comprehen
 - **A/B Testing** with statistical significance testing
 - **Business Intelligence** insights and actionable recommendations
 
-## 📊 Key Findings
+## Key Findings
 
 - **$4.78M** total revenue analyzed across 5,000 transactions
 - **24.9%** average profit margin with consistent performance
@@ -20,7 +20,7 @@ This project showcases end-to-end data analysis capabilities through a comprehen
 - **4 distinct customer segments** identified with targeted strategies
 - **15% lift** achieved in A/B test with statistical significance
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Python 3.9+**
 - **Jupyter Notebooks** for interactive analysis
@@ -31,7 +31,7 @@ This project showcases end-to-end data analysis capabilities through a comprehen
 - **SciPy** for statistical testing
 - **Git** for version control
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 analysis_representation/
@@ -47,7 +47,7 @@ analysis_representation/
 └── README.md                  # This file
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -116,7 +116,7 @@ analysis_representation/
 - Strategic initiatives with timelines
 - Data-driven decision support
 
-## 📋 Key Metrics
+## Key Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -128,7 +128,7 @@ analysis_representation/
 | A/B Test Lift | 15% improvement |
 | Growth Rate | 74.9% (period-over-period) |
 
-## 🎨 Visualization Features
+## Visualization Features
 
 - **Clean, professional styling** with pastel color schemes
 - **Interactive Plotly charts** for dynamic exploration
@@ -136,7 +136,7 @@ analysis_representation/
 - **Business-ready formatting** suitable for presentations
 - **Consistent branding** across all visualizations
 
-## 📊 Export Options
+## Export Options
 
 The project includes multiple export formats:
 
@@ -151,7 +151,7 @@ Run the export utility:
 python export_reports.py
 ```
 
-## 🔍 Skills Demonstrated
+## Skills Demonstrated
 
 ### Technical Skills
 - **Data Analysis**: Pandas, NumPy, statistical analysis
@@ -166,7 +166,7 @@ python export_reports.py
 - **Problem Solving**: End-to-end analysis workflow
 - **Project Management**: Organized, professional deliverables
 
-## 🎯 Use Cases
+## Use Cases
 
 This project demonstrates capabilities for:
 - **Business Analyst** roles
@@ -175,7 +175,7 @@ This project demonstrates capabilities for:
 - **Business Intelligence** positions
 - **Data Science** entry-level roles
 
-## 📞 Contact & Portfolio
+## Contact & Portfolio
 
 This project is part of a data analysis portfolio demonstrating:
 - End-to-end analytical thinking
@@ -183,7 +183,7 @@ This project is part of a data analysis portfolio demonstrating:
 - Business acumen and strategic insight generation
 - Professional presentation and communication skills
 
-## 🔄 Version Control
+## Version Control
 
 This project uses Git for version control with:
 - Comprehensive `.gitignore` for Python projects
@@ -191,7 +191,7 @@ This project uses Git for version control with:
 - Professional repository structure
 - Documentation and README
 
-## 📝 License
+## License
 
 This project is created for portfolio and educational purposes.
 
